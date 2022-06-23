@@ -2,7 +2,8 @@
 
 - 🖌️ Focada em desenvolvimento web front-end
 - 💻 Aprendendo JavaScript
-- 📚 Cursando Engenharia de software
+- 📚 Cursando Engenharia de software (2/7)
+- 📘 Aluna no Bootcamp Santander Fullstack Developer
 
 
 <div align="center">
