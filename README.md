@@ -4,6 +4,7 @@
 - 💻 Aprendendo JavaScript
 - 📚 Cursando Engenharia de software (2/7)
 - 📘 Aluna no Bootcamp Santander Fullstack Developer
+- ♟️ Gosto de ler e desenhar no tempo livre :D
 
 
 <div align="center">
