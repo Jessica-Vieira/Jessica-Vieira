@@ -2,9 +2,8 @@
 
 - 🖌️ Focada em desenvolvimento web front-end
 - 💻 Aprendendo JavaScript
-- 📚 Cursando Engenharia de software (2/7)
-- 📘 Aluna no Bootcamp Santander Fullstack Developer
-- ♟️ Gosto de ler, desenhar e jogar xadrez no tempo livre :D
+- 📚 Cursando Engenharia de software (3/7)
+- ♟️ Gosto de ler, desenhar e explorar novas tecnologias :D
 
 
 <div align="center">
