@@ -17,5 +17,3 @@
   <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Jessica-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
-  <h3 align="left">Contacte-me:</h3>
-  <a href="https://www.linkedin.com/in/jessica-vieira-ba6306215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGYe0nkItTQGuach2OZDQAg%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
