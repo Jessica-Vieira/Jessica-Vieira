@@ -1,9 +1,5 @@
-### Olá, me chamo Jessica👋
 
-- 🖌️ Focada em desenvolvimento web front-end
-- 💻 Aprendendo JavaScript
-- 📚 Cursando Engenharia de software (3/7)
-- ♟️ Gosto de ler, desenhar e explorar novas tecnologias :D
+
 
 
 <div align="center">
